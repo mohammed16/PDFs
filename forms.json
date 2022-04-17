@@ -1,6 +1,5 @@
 {
     "form_id": 1,
     "form_name": "animal",
-	"form_description": "My form is designed for testing",
     "geometry_type": "point"
 }
