@@ -1,6 +1,6 @@
 {
     "form_id": 1,
     "form_name": "animal",
-    "form_description": "accusamus ea aliquid et amet sequi nemo",
-	"geometry_type": "point"
+	"form_description": "My form is designed for testing",
+    "geometry_type": "point"
 }
