@@ -1,5 +1,11 @@
-{
-    "form_id": 1,
-    "form_name": "animal",
-    "geometry_type": "point"
-}
+[
+	{
+		"form_id": 1,
+		"form_name": "animal",
+		"geometry_type": "point"
+	}, {
+		"form_id": 2,
+		"form_name": "crops",
+		"geometry_type": "point"
+	}
+]
