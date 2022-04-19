@@ -1,0 +1,49 @@
+[
+	{
+		"form_id": 1,
+		"form_name": "animals",
+		"geometry_type": "point",
+		"fields" : [
+			{
+				"field_id": 1,
+				"field_name": "id",
+				"field_type": "integer"
+			},{
+				"field_id": 2,
+				"field_name": "class",
+				"field_type": "text"
+			},{
+				"field_id": 3,
+				"field_name": "order",
+				"field_type": "text"
+			},{
+				"field_id": 4,
+				"field_name": "local_name",
+				"field_type": "text"
+			}
+		]
+	}, {
+		"form_id": 2,
+		"form_name": "crops",
+		"geometry_type": "point",
+		"fields" : [
+			{
+				"field_id": 11,
+				"field_name": "id",
+				"field_type": "integer"
+			},{
+				"field_id": 12,
+				"field_name": "class",
+				"field_type": "text"
+			},{
+				"field_id": 13,
+				"field_name": "order",
+				"field_type": "text"
+			},{
+				"field_id": 14,
+				"field_name": "local_name",
+				"field_type": "text"
+			}
+		]
+	}
+]
