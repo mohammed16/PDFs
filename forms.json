@@ -68,5 +68,24 @@
 				"field_type": "text"
 			}
 		]
+	}, {
+		"form_id": 4,
+		"form_name": "cars",
+		"geometry_type": "polyline",
+		"fields" : [
+			{
+				"field_id": 31,
+				"field_name": "id",
+				"field_type": "integer"
+			},{
+				"field_id": 32,
+				"field_name": "model",
+				"field_type": "text"
+			},{
+				"field_id": 33,
+				"field_name": "brand",
+				"field_type": "text"
+			}
+		]
 	}
 ]
