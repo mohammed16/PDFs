@@ -1,6 +1,6 @@
 [
 	{
-		"form_id": 10,
+		"form_id": 1,
 		"form_name": "animals",
 		"geometry_type": "point",
 		"fields" : [
@@ -23,7 +23,7 @@
 			}
 		]
 	}, {
-		"form_id": 12,
+		"form_id": 2,
 		"form_name": "crops",
 		"geometry_type": "point",
 		"fields" : [
